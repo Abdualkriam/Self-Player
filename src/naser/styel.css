@@ -1,0 +1,20 @@
+
+.button{
+    -fx-background-color: transparent;
+}
+
+#vdioVule{
+ -fx-background-color: white; 
+ -fx-border-color: black;
+ -fx-padding-left: 50px;
+}
+
+#vdioVuleching{
+    -fx-float: right;
+    -fx-background-color: white;
+    -fx-border-color: black;
+}
+
+
+
+
